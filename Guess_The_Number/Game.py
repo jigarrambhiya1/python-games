@@ -10,7 +10,7 @@ def guess(x):
         elif guess > random_number:
             print('Sorry, Its Too High.')
         
-    print('Congrats! You have Guessed it.')
+    print('Congrats! You have Guessed it...')
 
 def computer_guess(x):
     low = 1
