@@ -13,6 +13,7 @@ def guess(x):
     print('Congrats! You have Guessed it.')
 
 def computer_guess(x):
+    
     low = 1
     high = x
     feedback = ''
